@@ -139,6 +139,7 @@ body {
   .movies {
     flex-direction: column;
     padding: 2rem 1rem;
+    justify-content: center;
   }
 
   .hero h1 {
